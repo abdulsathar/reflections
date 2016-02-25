@@ -4,3 +4,8 @@ Q. What happens when you initialize a repository? Why do you need to do it?
 	When we initialize a repository we are starting the process of keeping track of the changges in the  folder we just initialised.We initislize  a repository when we start a new project or when we need to create a history of commits to track the peogress.
 
 	
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+
+	Staging area offers the freedom selecting the initial commit to be done by selecting individual files or a group according to our wish.
+
