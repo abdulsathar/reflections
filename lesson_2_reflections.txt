@@ -1,0 +1,6 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+
+	
+	When we initialize a repository we are starting the process of keeping track of the changges in the  folder we just initialised.We initislize  a repository when we start a new project or when we need to create a history of commits to track the peogress.
+
+	
