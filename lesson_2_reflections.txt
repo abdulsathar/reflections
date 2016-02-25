@@ -9,3 +9,10 @@ Q. How is the staging area different from the working directory and the reposito
 
 	Staging area offers the freedom selecting the initial commit to be done by selecting individual files or a group according to our wish.
 
+
+Q. How can you use the staging area to make sure you have one commit per logical change?
+
+
+	Using 'git diff' and  'git diff --staged' we can easily identify the changes done to the files before commit. So ini a sense Staging area creates a platform to identify the changes and make commit accordingly. thus we can achieve one commit per logic.
+
+Q.
