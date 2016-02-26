@@ -27,4 +27,7 @@ Q. How do the diagrams help you visualize the branch structure?
 
 	Diagrams visualize where the commits branch out from the master branch. It can help us understand where the brach deviated away from the  master and how many commits on the master branch have been further committed.
 
-Q. 
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+
+	Merging two branches results in a branch that consists of codes from both branches.in a sense it derivves from both branches. Since we make a branch from two different branches it has two parents. Hence we point towards the two commits of different branches as the parent in the diagram
