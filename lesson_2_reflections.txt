@@ -19,3 +19,6 @@ Q.  What are some situations when branches would be helpful in keeping your hist
 
 
 	Branches help us in organising different variations that we commit to the code whether to experiment a new feature or to try out different codes. We can easily track these from the history in the repository. 
+	Master branch can be used where we present it publicly and the development. This branch will always work without any problem.
+
+
