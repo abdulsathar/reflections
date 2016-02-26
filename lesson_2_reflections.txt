@@ -15,4 +15,7 @@ Q. How can you use the staging area to make sure you have one commit per logical
 
 	Using 'git diff' and  'git diff --staged' we can easily identify the changes done to the files before commit. So ini a sense Staging area creates a platform to identify the changes and make commit accordingly. thus we can achieve one commit per logic.
 
-Q.
+Q.  What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+	Branches help us in organising different variations that we commit to the code whether to experiment a new feature or to try out different codes. We can easily track these from the history in the repository. 
