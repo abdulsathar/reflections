@@ -22,3 +22,9 @@ Q.  What are some situations when branches would be helpful in keeping your hist
 	Master branch can be used where we present it publicly and the development. This branch will always work without any problem.
 
 
+Q. How do the diagrams help you visualize the branch structure?
+
+
+	Diagrams visualize where the commits branch out from the master branch. It can help us understand where the brach deviated away from the  master and how many commits on the master branch have been further committed.
+
+Q. 
