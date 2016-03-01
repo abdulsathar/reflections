@@ -1,0 +1,4 @@
+Q. When would you want to use a remote repository rather than keeping all your work local?
+
+  When we are away or we are logging in from other workstation we would use remote repository. 
+  We woud use remote repository when you have to collaborate with other team members as its easier for them to access the codes.
