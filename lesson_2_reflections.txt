@@ -30,4 +30,21 @@ Q. How do the diagrams help you visualize the branch structure?
 Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 
-	Merging two branches results in a branch that consists of codes from both branches.in a sense it derivves from both branches. Since we make a branch from two different branches it has two parents. Hence we point towards the two commits of different branches as the parent in the diagram
+	Merging two branches results in a branch that consists of codes from both branches.in a sense it derivves from both branches. Since we make a branch from two different branches it has two parents. Hence we point towards the two commits of different branches as the parent in the diagram.
+
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+
+	Pros:
+		- Less time consuming.
+		- Easier to find out the difference in codes.
+		- Faster conflict resolution.
+		- Doesn't need manual proof reading of codes.
+
+	Cons:
+		- It just shows the differences.
+		- Doesn't do logical reasoning.
+		- Might end up removing important snippets of code.
+
+
+Q. 
